@@ -2,12 +2,13 @@
 display: flex;
 justify-content: space-around;
 align-items: center;
+flex-wrap: wrap;
 }
 .flexbox-item{
     width:200px;
     margin:10px;
-    border:3px soild #333;
-    background-color:darkblue;
+    border:4px soild #c72121;
+    background-color:rgb(21, 21, 24);
 }
 .flexbox-item-1{
     min-height: 100px;
